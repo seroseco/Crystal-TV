@@ -1,5 +1,5 @@
 # CrystalTV
-Node.js 기반 OTT 웹 앱입니다.
+Node.js 기반 OTT 웹 앱입니다.\
 정적 페이지(`public/`)와 로컬 비디오/메타데이터(`videos/`)를 `src/server.js`에서 함께 서빙합니다.
 
 ## 📸 Preview
