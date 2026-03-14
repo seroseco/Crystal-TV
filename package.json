@@ -1,0 +1,14 @@
+{
+  "name": "crystaltv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CrystalTV OTT",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
